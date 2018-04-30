@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/c4q/Desktop/BlockChain/Vapor/Blockchain-Server/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
